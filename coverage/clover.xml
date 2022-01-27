@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1643294284587" clover="3.2.0">
+  <project timestamp="1643294284587" name="All files">
+    <metrics statements="10" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="2" elements="15" coveredelements="5" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+    <file name="book-create.vue" path="C:\vue-projects\book_shop\src\components\book-create.vue">
+      <metrics statements="10" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="2"/>
+      <line num="109" count="1" type="stmt"/>
+      <line num="143" count="0" type="stmt"/>
+      <line num="157" count="0" type="stmt"/>
+      <line num="160" count="0" type="stmt"/>
+      <line num="161" count="0" type="stmt"/>
+      <line num="162" count="0" type="stmt"/>
+      <line num="165" count="0" type="stmt"/>
+      <line num="168" count="0" type="stmt"/>
+      <line num="172" count="1" type="stmt"/>
+      <line num="173" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
